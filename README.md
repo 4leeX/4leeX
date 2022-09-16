@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4leeX&layout=compact&theme=dracula)](https://github.com/4leeX/github-readme-stats)
+
+
 <!--
 **4leeX/4leeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
